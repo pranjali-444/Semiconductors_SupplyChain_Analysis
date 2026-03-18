@@ -20,9 +20,7 @@ The entire project was built using **Excel → Power Query → Power BI → SQL*
 ---
  
 ## ❓ The Business Questions This Project Answers
- 
-> These are the exact questions a Supply Chain Director or CFO would ask in a real business review meeting.
- 
+  
 ---
  
 ### 💸 "Why is our supply chain cost high, and which suppliers are responsible for it?"
@@ -106,9 +104,7 @@ The dataset contains **15 columns** covering the complete order-to-inspection li
 ---
  
 ## 🛠️ How Was This Project Built?
- 
-> Think of this as a four-stage pipeline — each stage builds on the last.
- 
+  
 ### Stage 1 — Excel : Cleaning the Raw Data
 Before any analysis could happen, the raw data had to be made reliable. In Excel:
 - Scanned all 200 rows for missing values, duplicates, and formatting errors
