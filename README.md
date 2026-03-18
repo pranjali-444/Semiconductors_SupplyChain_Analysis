@@ -145,7 +145,7 @@ A three-page interactive dashboard was built to tell the supply chain story visu
  
 ---
  
-## 💡 Key Findings in Plain English
+## 💡 Key Findings
  
 1. **The business is overpaying for underperformance.** S4 and S5 get the most money but deliver the worst quality and the slowest shipments.
 2. **Nearly half of all orders are failing quality checks.** 87 out of 200 orders failed inspection — this is not a small problem, it is a company-wide risk.
