@@ -9,7 +9,7 @@
  
 ## 💡 What Is This Project About?
  
-Imagine you are the head of supply chain at a semiconductor company. Every month, crores of rupees go out to suppliers — but costs keep rising, products keep failing quality checks, and shipments keep arriving late. Leadership is asking hard questions, and no one has clear answers.
+Imagine you are the head of supply chain at a semiconductor company. Every month, crores of rupees go out to suppliers but costs keep rising, products keep failing quality checks, and shipments keep arriving late. Leadership is asking hard questions, and no one has clear answers.
  
 **This project is the answer.**
  
@@ -173,7 +173,7 @@ A three-page interactive dashboard was built to tell the supply chain story visu
 | Data Cleaning | Deduplication, type formatting, formula validation, Pivot cross-checks in Excel |
 | Data Transformation | ETL pipeline in Power Query with derived columns and conditional logic |
 | SQL Querying | 35 queries across basic aggregation, subqueries, date functions, and window functions |
-| Data Visualization | 3-page Power BI dashboard with 15+ visual types and DAX measures |
+| Data Visualization | A Power BI dashboard with 15+ visual types and DAX measures |
 | Business Thinking | Translated raw data into a cost story with supplier verdicts and actionable recommendations |
 | Communication | Structured insights for non-technical stakeholders in plain, decision-ready language |
  
